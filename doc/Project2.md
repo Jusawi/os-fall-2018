@@ -1,7 +1,7 @@
 # Project 2: Weighted Round-Robin Scheduler
 
-* Assigned: 2017-10-04 Thursday 14:00:00 KST
-* **Due: 2017-10-30 Tuesday 13:59:59 KST**
+* Assigned: 2018-10-04 Thursday 14:00:00 KST
+* **Due: 2018-10-30 Tuesday 13:59:59 KST**
 
 ## Introduction
 
