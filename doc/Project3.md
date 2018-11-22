@@ -1,7 +1,7 @@
 # Project 3: Rotation Lock
 
 * Assigned: 2018-10-30 Tue 14:00:00 KST
-* **Due: 2018-11-22 Thu 13:59:59 KST**
+* **Due: 2018-11-22 Thu 12:59:59 KST**
 
 ## Introduction
 
